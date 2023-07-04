@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Programa Con Pid</h1>
 <h3 align="center">Soy un Desarrollador Frontend que aun se encuentra profundizando nuevos conocimientos de variadas tecnologias, apasionado enormemente por el diseño y desarrollo de interfaces en la web, me gusta crear y elaborar componentes unicos y originales para todo tipo de sitio web.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programaconpid" alt="programaconpid" /></a> </p>
-
 - 1️⃣ Mi Primer Proyecto... [Frontend Mentor - Testimonial Grid Section](https://testimonial-grid-section-pid.netlify.app)
-
-- 🌱 Actualmente estoy aprendiendo **Javascript, Tailwind CSS, React**
 
 - 2️⃣ Mi Segundo Proyecto... [Frontend Mentor - Clipboard Landing Page](https://clipboard-landingpage-pid.netlify.app)
 
 - 3️⃣ Mi Tercer Proyecto... [Codewell.cc - Mini Portfolio](https://mini-portfolio-pid.netlify.app/)
+
+- 🌱 Actualmente estoy aprendiendo **Javascript, Tailwind CSS, React**
 
 - 👨‍💻 Puedes encontrar mis proyectos en [*Portfolio en desarrollo*](*Portfolio en desarrollo*)
 
