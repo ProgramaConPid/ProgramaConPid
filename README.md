@@ -10,16 +10,14 @@
 <!-- About Me -->
 <h3 align="center">🧑‍💻 About Me</h3>
 
-<table width="100%" style="background-color: #FFF4E6; border-radius: 10px; padding: 10px;">
+<table width="100%">
   <tr>
     <td align="left" width="60%">
-      <ul>
-        <li>💬 I love building modern and responsive websites</li>
-        <li>🎓 I’m currently studying <strong>Software Development at Riwi</strong></li>
-        <li>🌱 I’m learning more about <strong>AI, Systems Design, and Cloud Architecture</strong></li>
-        <li>👨‍💻 I enjoy creating landing pages with <strong>HTML, CSS & JS</strong></li>
-        <li>📫 Reach me at <strong>programaconpid@gmail.com</strong></li>
-      </ul>
+    💬 I love building modern and responsive websites</li>
+    🎓 I’m currently studying <strong>Software Development at Riwi</strong></li>
+    🌱 I’m learning more about <strong>AI, Systems Design, and Cloud Architecture</strong></li>
+    👨‍💻 I enjoy creating landing pages with <strong>HTML, CSS & JS</strong></li>
+    📫 Reach me at <strong>programaconpid@gmail.com</strong></li> 
     </td>
     <td align="center" width="40%">
       <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Coding GIF" width="90%"/>
