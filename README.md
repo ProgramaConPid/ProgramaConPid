@@ -8,11 +8,11 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 <!-- About Me -->
-<h3 align="center">🧑‍💻 About Me</h3>
 
 <table width="100%">
   <tr>
     <td align="left" width="60%">
+      <h3 align="left">🧑‍💻 About Me</h3>
       <ul>
         <li>💬 I love building modern and responsive websites</li>
         <li>🎓 I’m currently studying <strong>Software Development at Riwi</strong></li>
