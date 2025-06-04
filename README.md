@@ -12,7 +12,7 @@
 
 <table width="100%">
   <tr>
-    <td align="left" width="60%" valign="top">
+    <td align="left" width="60%">
       <ul>
         <li>💬 I love building modern and responsive websites</li>
         <li>🎓 I’m currently studying <strong>Software Development at Riwi</strong></li>
@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="Coding GIF" width="90%" />
+      <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Coding GIF" width="90%" />
     </td>
   </tr>
 </table>
