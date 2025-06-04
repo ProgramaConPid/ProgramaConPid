@@ -10,11 +10,22 @@
 <!-- Sección de descripción personal -->
 ### 🧑‍💻 About Me
 
-- 💬 I love building modern and responsive websites
-- 🎓 I’m currently studying **Software Development at Riwi**
-- 🌱 I’m learning more about **AI, Systems Design, and Cloud Architecture**
-- 👨‍💻 I enjoy creating landing pages with **HTML, CSS & JS**
-- 📫 How to reach me: **programaconpid@gmail.com**
+<table>
+  <tr>
+    <td>
+
+- 💬 I love building modern and responsive websites  
+- 🎓 I’m currently studying **Software Development at Riwi**  
+- 🌱 I’m learning more about **AI, Systems Design, and Cloud Architecture**  
+- 👨‍💻 I enjoy creating landing pages with **HTML, CSS & JS**  
+- 📫 Reach me at **programaconpid@gmail.com**
+
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="250px" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
 <!-- Sección de tech stack -->
 ### 🛠 Tech Stack
