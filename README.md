@@ -7,53 +7,44 @@
 <h1 align="center">Hi 👋, I'm Felipe Marin</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<!-- Sección de descripción personal -->
-### 🧑‍💻 About Me
+<!-- About Me -->
+<h3 align="center">🧑‍💻 About Me</h3>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="left">
+<div align="center">
+  <p>
+    💬 I love building modern and responsive websites <br>
+    🎓 I’m currently studying <strong>Software Development at Riwi</strong> <br>
+    🌱 I’m learning more about <strong>AI, Systems Design, and Cloud Architecture</strong> <br>
+    👨‍💻 I enjoy creating landing pages with <strong>HTML, CSS & JS</strong> <br>
+    📫 Reach me at <strong>programaconpid@gmail.com</strong>
+  </p>
 
-- 💬 I love building modern and responsive websites  
-- 🎓 I’m currently studying **Software Development at Riwi**  
-- 🌱 I’m learning more about **AI, Systems Design, and Cloud Architecture**  
-- 👨‍💻 I enjoy creating landing pages with **HTML, CSS & JS**  
-- 📫 Reach me at **programaconpid@gmail.com**
+  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="300px" alt="Coding GIF"/>
+</div>
 
-    </td>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="70%" height="100%" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+<!-- Tech Stack -->
+<h3 align="center">🛠 Tech Stack</h3>
 
-<!-- Sección de tech stack -->
-### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/>
+</p>
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+<!-- GitHub Analytics -->
+<h3 align="center">📊 GitHub Analytics</h3>
 
-<!-- Sección de estadísticas de GitHub -->
-### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=programaconpid&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programaconpid&theme=default" width="48%" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=programaconpid&show_icons=true&theme=default" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=programaconpid&theme=default" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<!-- Sección de contacto/redes sociales -->
-### 📫 Connect with Me
+<!-- Redes Sociales -->
+<h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
   <a href="https://twitter.com/TU_USUARIO" target="_blank">
@@ -73,10 +64,13 @@
   </a>
 </p>
 
-### 🏆 Trophies
+<!-- Trofeos -->
+<h3 align="center">🏆 Trophies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programaconpid" alt="programaconpid" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=programaconpid&theme=flat" />
+</p>
 
 <!-- Footer -->
----
-⭐️ From [@programaconpid](https://github.com/programaconpid)
+<hr />
+<p align="center">⭐️ From <a href="https://github.com/programaconpid">@programaconpid</a></p>
