@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 <!-- About Me -->
-<h3 align="left">🧑‍💻 About Me</h3>
+<h3 align="center">🧑‍💻 About Me</h3>
 
 <table width="100%">
   <tr>
