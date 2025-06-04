@@ -10,9 +10,9 @@
 <!-- Sección de descripción personal -->
 ### 🧑‍💻 About Me
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%" align="center">
 
 - 💬 I love building modern and responsive websites  
 - 🎓 I’m currently studying **Software Development at Riwi**  
@@ -21,7 +21,7 @@
 - 📫 Reach me at **programaconpid@gmail.com**
 
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="250px" alt="Coding GIF">
     </td>
   </tr>
@@ -72,6 +72,10 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
+
+### 🏆 Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programaconpid" alt="programaconpid" /></a> </p>
 
 <!-- Footer -->
 ---
