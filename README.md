@@ -1,6 +1,6 @@
 <!-- Banner de bienvenida -->
 <p align="center">
-  <img src="URL_DE_TU_BANNER_AQUI" alt="Felipe Marin Banner"/>
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Felipe Marin Banner"/>
 </p>
 
 <!-- Título de presentación -->
