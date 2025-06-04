@@ -45,8 +45,8 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programaconpid&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programaconpid&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=programaconpid&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="programaconpid" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programaconpid&theme=dark" alt="programaconpid" width="48%" />
 </p>
 
 <!-- Redes Sociales -->
