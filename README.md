@@ -10,17 +10,24 @@
 <!-- About Me -->
 <h3 align="center">🧑‍💻 About Me</h3>
 
-<div align="center">
-  <p>
-    💬 I love building modern and responsive websites <br>
-    🎓 I’m currently studying <strong>Software Development at Riwi</strong> <br>
-    🌱 I’m learning more about <strong>AI, Systems Design, and Cloud Architecture</strong> <br>
-    👨‍💻 I enjoy creating landing pages with <strong>HTML, CSS & JS</strong> <br>
-    📫 Reach me at <strong>programaconpid@gmail.com</strong>
-  </p>
+<h3 align="center">🧑‍💻 About Me</h3>
 
-  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="300px" alt="Coding GIF"/>
-</div>
+<table align="center">
+  <tr>
+    <td width="55%" valign="top" align="left">
+      <p>
+        💬 I love building modern and responsive websites <br>
+        🎓 I’m currently studying <strong>Software Development at Riwi</strong> <br>
+        🌱 I’m learning more about <strong>AI, Systems Design, and Cloud Architecture</strong> <br>
+        👨‍💻 I enjoy creating landing pages with <strong>HTML, CSS & JS</strong> <br>
+        📫 Reach me at <strong>programaconpid@gmail.com</strong>
+      </p>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="250px" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack</h3>
