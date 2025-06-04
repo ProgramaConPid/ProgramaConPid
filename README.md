@@ -22,7 +22,7 @@
 
     </td>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="100%" alt="Coding GIF">
+      <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="Coding GIF">
     </td>
   </tr>
 </table>
