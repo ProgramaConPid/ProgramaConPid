@@ -10,10 +10,10 @@
 <!-- About Me -->
 <h3 align="center">🧑‍💻 About Me</h3>
 
-<table width="100%">
+<table width="100%" style="background-color: #FFF4E6; border-radius: 10px; padding: 10px;">
   <tr>
     <td align="left" width="60%">
-      <ul height="100%">
+      <ul>
         <li>💬 I love building modern and responsive websites</li>
         <li>🎓 I’m currently studying <strong>Software Development at Riwi</strong></li>
         <li>🌱 I’m learning more about <strong>AI, Systems Design, and Cloud Architecture</strong></li>
