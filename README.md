@@ -10,21 +10,19 @@
 <!-- About Me -->
 <h3 align="center">🧑‍💻 About Me</h3>
 
-<h3 align="center">🧑‍💻 About Me</h3>
-
-<table align="center">
+<table width="100%">
   <tr>
-    <td width="55%" valign="top" align="left">
-      <p>
-        💬 I love building modern and responsive websites <br>
-        🎓 I’m currently studying <strong>Software Development at Riwi</strong> <br>
-        🌱 I’m learning more about <strong>AI, Systems Design, and Cloud Architecture</strong> <br>
-        👨‍💻 I enjoy creating landing pages with <strong>HTML, CSS & JS</strong> <br>
-        📫 Reach me at <strong>programaconpid@gmail.com</strong>
-      </p>
+    <td align="left" width="50%">
+
+- 💬 I love building modern and responsive websites  
+- 🎓 I’m currently studying **Software Development at Riwi**  
+- 🌱 I’m learning more about **AI, Systems Design, and Cloud Architecture**  
+- 👨‍💻 I enjoy creating landing pages with **HTML, CSS & JS**  
+- 📫 Reach me at **programaconpid@gmail.com**
+
     </td>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="250px" alt="Coding GIF">
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="100%" alt="Coding GIF">
     </td>
   </tr>
 </table>
