@@ -41,7 +41,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=programaconpid&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="programaconpid" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=programaconpid&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="programaconpid" height="100%" width="100%" />
   
   </td>
 </tr>
