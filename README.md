@@ -8,17 +8,18 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 <!-- About Me -->
+<h3 align="left">🧑‍💻 About Me</h3>
 
 <table width="100%">
   <tr>
     <td align="left" width="60%">
-      <h3 align="left">🧑‍💻 About Me</h3>
       <ul>
         <li>💬 I love building modern and responsive websites</li>
         <li>🎓 I’m currently studying <strong>Software Development at Riwi</strong></li>
         <li>🌱 I’m learning more about <strong>AI, Systems Design, and Cloud Architecture</strong></li>
         <li>👨‍💻 I enjoy creating landing pages with <strong>HTML, CSS & JS</strong></li>
         <li>📫 Reach me at <strong>programaconpid@gmail.com</strong></li>
+        <li>⚡ Fun fact <strong>I upload videos on tik tok about web development</strong></li>
       </ul>
     </td>
     <td align="center" width="40%">
